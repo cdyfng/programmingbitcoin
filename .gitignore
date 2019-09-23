@@ -5,3 +5,5 @@
 *.orig
 *.rej
 *.patch
+.DS_Store
+code-ch01/ecc.pyc
